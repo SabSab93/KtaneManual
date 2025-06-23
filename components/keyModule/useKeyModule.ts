@@ -1,12 +1,11 @@
 export const COLUMNS: string[][] = [
 
-  [ 'image_1',  'image_8',  'image_9',  'image_12' ],
-  [ 'image_2',  'image_5',  'image_11', 'image_14' ],
-  [ 'image_3',  'image_6',  'image_10', 'image_15' ],
-  [ 'image_4',  'image_7',  'image_13', 'image_16' ],
-  [ 'image_17', 'image_18', 'image_19', 'image_20' ],
-  [ 'image_21', 'image_22', 'image_23', 'image_24' ],
-  [ 'image_25', 'image_26' ],
+  [ 'image_1',  'image_2',  'image_3',  'image_4', 'image_5','image_6','image_7' ],
+  [ 'image_8',  'image_1',  'image_7',  'image_9', 'image_10','image_6','image_11' ],
+  [ 'image_12',  'image_13',  'image_9',  'image_14', 'image_15','image_3','image_10' ],
+  [ 'image_16',  'image_17',  'image_18',  'image_5', 'image_14','image_11','image_19' ],
+  [ 'image_20',  'image_19',  'image_18',  'image_27', 'image_17','image_21','image_22' ],
+  [ 'image_16',  'image_8',  'image_23',  'image_24', 'image_20','image_25','image_26' ],
 ];
 
 
